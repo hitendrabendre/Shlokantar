@@ -1,0 +1,11 @@
+{
+  "name": "Shlok Bhashantar Scanner",
+  "description": "Mahabharata and Bhagavad Gita Shlok scanner and explanation app with Marathi voiceover.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
